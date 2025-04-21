@@ -1,6 +1,6 @@
 # 🔐 Password Generator - Tkinter App
 
-[![GitHub license](https://img.shields.io/github/license/vitorugz/PasswordGenerator)](./LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Vitorugz/PasswordGenerator)](./LICENSE)
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)](https://www.python.org/)
 [![UI WIth](https://img.shields.io/badge/Tkinter-blue?logo=tkinter)](https://docs.python.org/3/library/tkinter.html)
 
